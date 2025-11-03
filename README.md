@@ -41,8 +41,6 @@
 
 ---
 
-## 📊 GitHub & Coding Stats
-
 <div align="center">
 
 ### 🏆 LeetCode Progress
@@ -60,7 +58,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="mailto: ponnuappu384@gmail.com">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ponnuappu384@gmail.com">
         <img src="https://img.icons8.com/color/96/000000/gmail.png" width="40" alt="Email"/>
       </a>
     </td>
